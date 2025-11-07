@@ -1,45 +1,51 @@
 
-## 📸 Dokumentasi Tampilan Website
+## 📸 Dokumentasi Tampilan Website MTs Muhammadiyah 1 Natar
 
-### 🏠 Tampilan Awal
-Halaman utama website MTs Muhammadiyah 1 Natar menampilkan sambutan sekolah, menu navigasi seperti *Profil Sekolah*, *Informasi Akademik*, *Galeri Foto*, *Kontak*, dan tombol *Login Admin*.
-
-<img src="1.png" alt="Tampilan Awal" width="600" />
+Berikut beberapa tangkapan layar (screenshot) tampilan website MTs Muhammadiyah 1 Natar dalam versi **desktop** dan **mobile**.
 
 ---
 
-### 🔐 Halaman Login
-Halaman login digunakan oleh admin, guru, atau staf TU untuk masuk ke sistem.  
-Pengguna cukup memasukkan **email** dan **password** untuk mengakses dashboard sesuai perannya.
+### 🏠 1. Halaman Utama (Versi Desktop)
+Tampilan awal website pada perangkat desktop.  
+Menampilkan banner besar dengan tulisan **“Selamat Datang di MTs Muhammadiyah 1 Natar”**, menu navigasi di bagian atas, dan tombol *Selengkapnya* untuk melihat informasi lebih lanjut.
 
-<img src="2.png" alt="Halaman Login" width="600" />
-
----
-
-### 📊 Dashboard Admin
-Setelah login sebagai admin, pengguna diarahkan ke halaman dashboard utama.  
-Di sini admin dapat melihat ringkasan informasi seperti jumlah siswa, guru, kelas, dan menu navigasi utama lainnya.
-
-<img src="3.png" alt="Dashboard Admin" width="600" />
+<img src="1.png" alt="Halaman Utama Versi Desktop" width="600" />
 
 ---
 
-### 🧑‍🎓 Data Siswa
-Halaman ini menampilkan daftar siswa lengkap dengan kolom seperti **NISN**, **Nama**, **Tempat/Tanggal Lahir**, **Jenis Kelamin**, serta **Nama Orang Tua**.  
-Admin dapat menambah, mengedit, atau menghapus data siswa.
+### 🎯 2. Halaman Visi dan Misi (Versi Desktop)
+Menampilkan visi dan misi sekolah secara jelas dalam tata letak bersih dan mudah dibaca.  
+Struktur halaman ini sama dengan halaman lain seperti *Profil Sekolah* atau *Informasi Akademik*.
 
-<img src="4.png" alt="Data Siswa" width="600" />
+<img src="2.png" alt="Halaman Visi dan Misi Versi Desktop" width="600" />
+
+---
+
+### 📰 3. Halaman Berita (Versi Desktop)
+Menampilkan daftar berita dan pengumuman sekolah dalam bentuk kartu (card).  
+Setiap berita dilengkapi gambar, judul, dan ringkasan singkat yang bisa diklik untuk melihat detailnya.
+
+<img src="3.png" alt="Halaman Berita Versi Desktop" width="600" />
 
 ---
 
-### 👨‍🏫 Data Guru
-Halaman ini berisi data seluruh guru di MTs Muhammadiyah 1 Natar.  
-Terdapat kolom seperti **NUPTK**, **Nama Guru**, **Jabatan**, **TMT**, dan **Status Kepegawaian**.  
-Admin juga dapat menambah atau memperbarui data guru melalui halaman ini.
+### 📱 4. Halaman Utama (Versi Mobile - Berita & Prestasi)
+Tampilan halaman utama pada perangkat mobile.  
+Menampilkan bagian berita terbaru di bagian atas, dan di bawahnya daftar **prestasi siswa atau sekolah** yang disusun vertikal agar responsif di layar kecil.
 
-<img src="5.png" alt="Data Guru" width="600" />
+<img src="4.png" alt="Halaman Utama Versi Mobile Berita dan Prestasi" width="300" />
 
 ---
+
+### 📱 5. Halaman Utama (Versi Mobile)
+Tampilan halaman utama secara keseluruhan di perangkat mobile.  
+Desainnya tetap menampilkan banner sambutan, menu navigasi yang diubah menjadi *hamburger menu*, dan tata letak yang menyesuaikan ukuran layar.
+
+<img src="5.png" alt="Halaman Utama Versi Mobile" width="300" />
+
+---
+
+
 
 
 
