@@ -1,7 +1,47 @@
 
-## 📸 Tampilan Website
+## 📸 Dokumentasi Tampilan Website
 
-<img src="1.png" alt="Tampilan Website Laravel" width="600" />
+### 🏠 Tampilan Awal
+Halaman utama website MTs Muhammadiyah 1 Natar menampilkan sambutan sekolah, menu navigasi seperti *Profil Sekolah*, *Informasi Akademik*, *Galeri Foto*, *Kontak*, dan tombol *Login Admin*.
+
+<img src="1.png" alt="Tampilan Awal" width="600" />
+
+---
+
+### 🔐 Halaman Login
+Halaman login digunakan oleh admin, guru, atau staf TU untuk masuk ke sistem.  
+Pengguna cukup memasukkan **email** dan **password** untuk mengakses dashboard sesuai perannya.
+
+<img src="2.png" alt="Halaman Login" width="600" />
+
+---
+
+### 📊 Dashboard Admin
+Setelah login sebagai admin, pengguna diarahkan ke halaman dashboard utama.  
+Di sini admin dapat melihat ringkasan informasi seperti jumlah siswa, guru, kelas, dan menu navigasi utama lainnya.
+
+<img src="3.png" alt="Dashboard Admin" width="600" />
+
+---
+
+### 🧑‍🎓 Data Siswa
+Halaman ini menampilkan daftar siswa lengkap dengan kolom seperti **NISN**, **Nama**, **Tempat/Tanggal Lahir**, **Jenis Kelamin**, serta **Nama Orang Tua**.  
+Admin dapat menambah, mengedit, atau menghapus data siswa.
+
+<img src="4.png" alt="Data Siswa" width="600" />
+
+---
+
+### 👨‍🏫 Data Guru
+Halaman ini berisi data seluruh guru di MTs Muhammadiyah 1 Natar.  
+Terdapat kolom seperti **NUPTK**, **Nama Guru**, **Jabatan**, **TMT**, dan **Status Kepegawaian**.  
+Admin juga dapat menambah atau memperbarui data guru melalui halaman ini.
+
+<img src="5.png" alt="Data Guru" width="600" />
+
+---
+
+
 
 ## About Laravel
 
